@@ -1,0 +1,6 @@
+interface:
+  display_name: "Flock Generator"
+  short_description: "Generate varied Blender bird flocks"
+  default_prompt: "Use $flock-generator to create a Blender bird flock scene; ask me for flight-mode counts and seagull/dove/crow allocation before generating."
+policy:
+  allow_implicit_invocation: true
